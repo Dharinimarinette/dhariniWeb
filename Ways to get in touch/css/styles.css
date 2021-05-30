@@ -1,0 +1,25 @@
+body {
+    background-color: #d7fffd;
+}
+
+h1 {
+font-size: 4.15rem;
+  font-family: 'Pacifico', sans-serif;
+  color: #3edbf0
+}
+
+h3 {
+  font-family: 'Fredoka one', sans-serif;
+}
+
+p {
+  font-family: 'Original surfer', sans-serif;
+}
+
+hr {
+  background-color: #d7fffd;
+  border-style: dotted none none;
+  width: 100%;
+  border-color: #3edbf0;
+  border-width: 10px;
+}
